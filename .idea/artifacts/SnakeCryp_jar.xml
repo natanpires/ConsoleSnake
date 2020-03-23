@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SnakeCryp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SnakeCryp_jar</output-path>
+    <root id="archive" name="SnakeCryp.jar">
+      <element id="module-output" name="SnakeCryp" />
+    </root>
+  </artifact>
+</component>
